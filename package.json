@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "hey-listen": "1.0.8",
-    "popmotion-pose": "maximelebreton/popmotion-pose",
+    "popmotion-pose": "^3.4.8",
     "tslib": "^1.9.1"
   },
   "unpkg": "./dist/vue-pose.js",
